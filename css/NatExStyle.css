@@ -718,6 +718,7 @@ footer .footer__content .content__interact .interact__register .register__regist
   padding: 18px 10px 18px 10px;
   border: 1px solid white;
   background-color: #214E41;
+  color: white;
 }
 footer .footer__content .content__interact .interact__register .register__textes .textes__header {
   text-transform: uppercase;
